@@ -9,7 +9,7 @@ An app where you need to put the length you want in your password as also the su
 
 *Text from the [Best Reviews](https://password-managers.bestreviews.net/faq/is-it-safe-to-use-random-password-generators/) website. Access the site to learn more about password generators.*
 
-## Features — What are some key things your project can do?
+## Features
 - [x] Generate strong password.
 - [x] Saves password in txt file
 - [x] Saves a password associate with a subject
@@ -18,6 +18,5 @@ An app where you need to put the length you want in your password as also the su
 Go to the project folder (`cd .../password-generator/`) and execute with:
 - `python3 password_generator.py` (run with the respective command of your operational system)
 
-
-## Dependencies — What are the main outside resources your project needs to run?
+## Dependencies
 - [Python](https://www.python.org/downloads/)
